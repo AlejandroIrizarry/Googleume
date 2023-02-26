@@ -1,4 +1,4 @@
-## <img src="images/google.svg" style="height: 20px; width: auto;"/>OOGLEUME
+## <img src="images/google.svg" style="height: 20px; width: 20px;"/>OOGLEUME
 
 Resume with a simple Google themed template 🚀
 <div style="display: flex; flex-direction:row;">
